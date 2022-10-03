@@ -1,18 +1,17 @@
-# Qiskit Fall Fest 2022
+# Yale x Qiskit Fall Fest 2022
 
-# This is a template that you can use to host your own event
 
 ## Welcome
-This is the Qiskit Fall Fest event for MYCAMPUS. We're so exciting to have you all here. This event is being hosted by the [Awesome Quantum Club at MYCAMPUS](https://google.com), please consider joining our club. We meet every Tuesday in Room A112.
+This is the Qiskit Fall Fest event for Yale. We're so exciting to have you all here. This event is being hosted by [YuQC](https://yaleqc.com/), which you should absolutely join if you haven't already!
 
 The [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) is a collection of quantum computing events on college campuses around the world. Every Fall Fest event is organized and run by the students on each campus, with support from the entire IBM Quantum team. Student leaders work alongside IBM throughout the month of September to design and plan their event, which are then run in October. The events vary from technical hackathons to beginner-friendly challenges, all with the goal of helping to grow the local community’s skill set.
 
-The Fall Fest here on MYCAMPUS is going to be a hackathon, starting on October 22nd. Details about the hackathon and rules can be found below. The deadline for all projects is October 24th, at 1pm ET. Any projects submitted after that will NOT be judged. Good luck!
+The Fall Fest here at Yale is going to be a pseudo-hackathon, starting on October 3rd. Details about the hackathon and rules can be found below. The deadline for all projects is October 15th, at 2pm ET. Good luck!
 
 --------------------------------
 ## Official Registration
-- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). This is a hackathon for MYCAMPUS only, if you are not a member of the MYCAMPUS community, you may not participate in this hackathon.
-- To officially sign up, register using [this link](https://airtable.com/)
+- Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). 
+- To officially sign up, register using [this link](https://forms.gle/C7LccmMHWyt1CETD7)
 
 
 ## Hackathon Details

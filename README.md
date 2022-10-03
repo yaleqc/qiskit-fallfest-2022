@@ -1,5 +1,4 @@
-# Yale x Qiskit Fall Fest 2022
-
+<img src="https://github.com/yaleqc/qiskit-fallfest-2022/blob/main/fallfest.png?raw=true" alt="Welcome to YuQC x Qiskit Fall Fest!"/>
 
 ## Welcome
 This is the Qiskit Fall Fest event for Yale. We're so exciting to have you all here. This event is being hosted by [YuQC](https://yaleqc.com/), which you should absolutely join if you haven't already!
@@ -12,29 +11,19 @@ The Fall Fest here at Yale is going to be a pseudo-hackathon, starting on Octobe
 ## Official Registration
 - Before you register, read the full rules [here](https://github.com/qiskit-community/fall-fest-22/blob/main/Qiskit%20Fall%20Fest%20Official%20Rules%20Template.docx). 
 - To officially sign up, register using [this link](https://forms.gle/C7LccmMHWyt1CETD7)
-
+- Make sure to join the [Discord](https://discord.gg/q29q8Dn9) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
 ## Hackathon Details
-- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 22nd at 8pm
+- All projects submitted must follow the hackathon prompt, which we will reveal at the Opening Ceremony on Oct. 3rd at 5pm
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can [learn more about Qiskit and begin getting familiar here](https://qiskit.org/learn/).
 - You can not start building your project before the Opening Ceremony, and you must submit your project by the deadline.
 
 
 --------------------------------
-## Schedule
 
-We are proud to welcome you to the MYCAMPUS Qiskit Fall Fest. Our team of organizers has put together an amazing schedule of events, learning, guest speakers, and more for you. Find the schedule below, or [download the PDF here](https://github.com/qiskit-community/fall-fest-22/blob/main/Fall%20Fest%20Workshop%20Schedule.pdf)
+<img src="https://github.com/yaleqc/qiskit-fallfest-2022/blob/main/eventschedule.png?raw=true" ref="Event Schedule"> 
 
-
-
-
-Make sure to join the Discord / email thread / [communication channel](https://google.com) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
 <br>
 
-## more
-
-
-
-<br><br>
-# [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
+[Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
